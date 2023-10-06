@@ -1,16 +1,18 @@
 🎯**Primeiro respositório DIO**
 
-Este projeto possui como objetivo apresentar a DIO o primeiro repositório do curso que estou realizando.
+Este projeto possui como objetivo apresentar a DIO o primeiro repositório do curso que estou realizando. Primeiro "Hellow World" do curso!
 
 💻**Construção**
 
-Primeiro "Hellow World" do curso!
+Java 
+
+Intellij
 
 📋**Pré-requisitos**
 
 Java Jdk
 
-Intellij
+IDE de preferência
 
 ▶️**Instalação**
 
